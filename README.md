@@ -44,8 +44,8 @@ The program covers Python, Data Analysis, Machine Learning, Deep Learning, NLP, 
 
 ## 🗂️ Weekly Progress
 - **Week 1:** Completed Python fundamentals → variables, data types, control flow, data structures. Uploaded problem-solving exercises to GitHub.  
-- **Week 2:** (To be updated)  
-- **Week 3:** (To be updated)  
+- **Week 2:** Python programming - Functions & Modules, File I/O, Exception handling.
+- **Week 3:** Scenario based SQL queries, Library Management System, Supabase, PostgreSQL database, API's and storage  
 - **Week 4:** (To be updated)  
 
 ---
